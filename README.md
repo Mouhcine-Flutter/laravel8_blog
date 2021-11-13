@@ -4,7 +4,7 @@ A laravel from scratch blog project that I did while learning laravel 8.
 
 ## Preview App
 
-<div><img style="width:600px; height:350px;" src="https://github.com/Mouhcine-Flutter/laravel8_blog/demo_project.png"></div>
+<div><img style="width:720px; height:360px;" src="https://github.com/Mouhcine-Flutter/laravel8_blog/blob/master/demo_project.png"></div>
 
 ## Installation
 
